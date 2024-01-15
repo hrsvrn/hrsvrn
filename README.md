@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshvardhan Vatsa</h1>
-<h3 align="center">Passionate Machine Learning and A</h3>
+<h3 align="center">Passionate AI and Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrsvrn&label=Profile%20views&color=0e75b6&style=flat" alt="hrsvrn" /> </p>
 
