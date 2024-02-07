@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Neural Nets, Full stack development**
 
-- 📫 How to reach me **harshvardhanvatsa@gmail.comn**
+- 📫 How to reach me **harshvardhanvatsa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
