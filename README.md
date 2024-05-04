@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">-<br>-Back-end development? Count me in! It's where the real magic happens.<br><br>-Linux drives my programming passion, but Windows is where I get stuff done.<br><br>-ReactJS isn't exactly my cup of tea, but I'll whip up some front-end magic when needed.<br><br>-Collaboration is my middle name! Reach out, and let's make some coding dreams a reality!<br><br>-When I'm not coding, you'll find me mixing tunes or building worlds in Minecraft.</p>
+<p align="left"><br>-Back-end development? Count me in! It's where the real magic happens.<br><br>-Linux drives my programming passion, but Windows is where I get stuff done.<br><br>-ReactJS isn't exactly my cup of tea, but I'll whip up some front-end magic when needed.<br><br>-Collaboration is my middle name! Reach out, and let's make some coding dreams a reality!<br><br>-When I'm not coding, you'll find me mixing tunes or building worlds in Minecraft.</p>
 
 ###
 
