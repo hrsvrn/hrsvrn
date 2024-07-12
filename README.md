@@ -3,7 +3,7 @@
 
 ## About Me
 
-I'm Harshvardhan Vatsa, a student at Vellore Institute of Technology,  currently pursuing research in Deep Learning, Machine Learning, and Generative AI.
+I'm Harshvardhan Vatsa, a undergraduate student majoring in Computer Science at Vellore Institute of Technology,  currently pursuing research in Deep Learning, Machine Learning, and Generative AI.
 I also do full stack development in JavaScript and Python, and my interests are coding, music production, and football.
 
 ## Skills
