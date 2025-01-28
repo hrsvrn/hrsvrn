@@ -20,7 +20,7 @@
 ###
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=hrsvrn"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hrsvrn.hrsvrn&left_text=Profile%20Views"  />
 </div>
 
 ###
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I am Harshvardhan Vatsa, a full-stack developer with a strong focus on backend development.<br>- Proficient in backend frameworks such as Django, Express.js, and NestJS.  <br>- Experienced in developing full-stack applications using Next.js.  <br>- Skilled in working with databases like PostgreSQL and MongoDB<br>- Skilled in containerization and deployment using Docker.  <br>- Experienced in using AWS services, including deploying EC2 instances, configuring S3, and managing RDS.  <br>- Currently exploring and building expertise in  DevOps practices and tools.   <br>- When not coding i will probably making music or playing video games.<br><br>Feel Free to reach out for collaborations and projects!</p>
+<p align="left">I’m Harshvardhan Vatsa, a pre-final year undergraduate student majoring in Computer Science at Vellore Institute of Technology. My academic journey revolves around the fascinating realms of Deep Learning, Machine Learning, and Generative AI, where I am deeply involved in research and exploration.<br><br>In addition to my research endeavors, I have a strong background in full stack development with expertise in JavaScript and Python. My technical skills enable me to design and implement robust solutions across various platforms.</p>
 
 ###
 
@@ -42,18 +42,20 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
 </div>
 
 ###
 
-<h3 align="left">Frameworks</h3>
+<h3 align="left">Web Development Frameworks</h3>
 
 ###
 
@@ -62,9 +64,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
@@ -73,6 +75,24 @@
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+</div>
+
+###
+
+<h3 align="left">Frameworks I use for ML and DL</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
 </div>
 
 ###
