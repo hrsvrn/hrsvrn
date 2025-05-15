@@ -1,9 +1,9 @@
-<h1 align="center">Harshvardhan Vatsa</h1>
+![image](https://github.com/user-attachments/assets/96098555-e9ac-43d6-9a3d-e65cac80d5b0)<h1 align="center">Harshvardhan Vatsa</h1>
 
 ###
 
 <div align="center">
-  <img height="250" src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif"  />
+  <img height="250" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbWc0ICQkDtq6TxoexkDTZQ0VqGSznxFGo1w&s"  />
 </div>
 
 ###
