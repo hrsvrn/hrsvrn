@@ -12,4 +12,16 @@ Mainly I do CV and improving their efficiencies but i am open for everything rel
 mail me at harshvardhanvatsa@gmail.com for anything.
 
 
+Stuff I use
+a)Arch Linux : A lightweight and flexible Linux® distribution that tries to Keep It Simple.
+b)Hyprland : An independent, highly customizable, dynamic tiling Wayland compositor that doesn’t sacrifice on its looks.
+c)Neovim : Hyperextensible Vim-based text editor
+d)Notion : Notes taking application
+e)Kitty : A fast, feature-rich, GPU based terminal emulator
+
+Socials
+
+[twitter](https://x.com/hrsvrn_)
+
+[linkedin](https://linkedin.com/in/harshvardhanvatsa)
 
